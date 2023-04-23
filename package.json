@@ -1,0 +1,31 @@
+{
+  "name": "fab",
+  "displayName": "fab",
+  "description": "fab",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iixgriimzz04",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iixgriimzz04-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/Picsart_22-12-01_20-50-45-373.jpg",
+  "author": {
+    "name" : "iixgriimzz04"
+    "email": "jhordancitosteven@outlook.com"
+  },
+  "repository": {
+    "url"; "https://github.com/IIxGriimZz04/Mi-tema-2"
+    "type": "git"
+  },
+  "publisher": "iixgriimzz04"
+}
